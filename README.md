@@ -8,6 +8,10 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
+## Sponsor
+
+<a href="https://tracking.gitads.io/?repo=awesome-mongodb"><img src="https://images.gitads.io/awesome-mongodb" alt="GitAds"/></a>
+
 ## Table of Contents
  - [Resources](#resources)
    - [Documentation](#documentation)
